@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](Screenshots/Sales_Dashboard.png)
 
 ---
 
@@ -90,7 +90,7 @@ Provides a high-level summary of business performance through KPI cards.
 
 # 📷 Dashboard Screenshot
 
-![Sales Performance Dashboard](screenshots/Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](Screenshots/Sales_Dashboard.png)
 
 ---
 
@@ -204,22 +204,22 @@ Sales-Performance-Dashboard-PowerBI
 ├── README.md
 │
 ├── pbix
-│   └── Sales_Performance_Dashboard.pbix
+│   └── Sales_Dashboard.pbix
 │
 ├── screenshots
-│   └── Sales_Performance_Dashboard.png
+│   └── Sales_dashboard.png
 │
 ├── data
-│   └── Sales_Data.xlsx
+│   └── Sales_data.xlsx
 │
 ├── sql-queries
-│   └── Sales_Performance_SQL_Queries.sql
+│   └── SQL_Queries.sql
 │
 ├── dax-measures
 │   └── DAX_Measures.md
 │
 └── documentation
-    └── Sales_Performance_Project_Documentation.pdf
+    └── Project_Documentation.pdf
 ```
 
 ---
